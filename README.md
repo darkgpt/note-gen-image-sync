@@ -1,1 +1,1 @@
-# note-gen-image-sync
+# notegen的图床库
